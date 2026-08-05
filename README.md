@@ -26,3 +26,10 @@ Throughout the project, core Python list operations such as indexing, updating e
 
 The purpose of this project is to strengthen foundational Python programming skills by practicing common list operations in a realistic scenario. It serves as an introductory exercise for understanding how to manage collections of data and generate dynamic output based on list contents.
 <br />
+
+<h2>Instructions</h2>
+Step 1: Create a list starting with three people who will receive the dinner invitation. Then use the list to print a message to each person, inviting them to dinner. 
+
+Step 2: Someone from the list has notified the organizer that they are unable to come. Let the guest know that Levi will not be attending the dinner, but we have acquired a bigger table and more people will be joining the dinner party.
+
+Step 3: Add the additional people to the dinner list and send out new invitations to each person once more. 
